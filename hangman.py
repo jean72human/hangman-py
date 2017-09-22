@@ -1,6 +1,8 @@
 #importing the time module
 import time
 
+""" Made Changes """
+
 #welcoming the user
 name = raw_input("What is your name? ")
 
@@ -17,7 +19,7 @@ time.sleep(0.5)
 #here we set the secret
 word = "secret"
 
-#creates an variable with an empty value
+#creates a variable with an empty value
 guesses = ''
 
 #determine the number of turns
